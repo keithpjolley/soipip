@@ -1,6 +1,5 @@
 # Screenlogic Over IP in Python
 
-
 I wanted to see how to communicate with my Screenlogic device. This is a translation of some of the code
 here: https://github.com/ceisenach/screenlogic_over_ip/ in node/js, but with Python.
 
